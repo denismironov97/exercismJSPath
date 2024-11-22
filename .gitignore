@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# custom added
+.exercism
+.eslintrc
+.npmrc
+babel.config.js
+package-lock.json
+HELP.md
+HINTS.md
