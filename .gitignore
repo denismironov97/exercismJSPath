@@ -129,11 +129,9 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# custom added
-.exercism
-.eslintrc
+# custom added files
+# important ignore files
+metadata.json
 .npmrc
-babel.config.js
 package-lock.json
-HELP.md
-HINTS.md
+
